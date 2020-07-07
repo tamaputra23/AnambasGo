@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PostUnpopulatedDetail"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorPrimary"
+        tools:ignore="MissingConstraints">
+
+        <ImageButton
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginStart="25dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/back"
+            android:backgroundTint="@color/bg"
+            android:onClick="back"
+            tools:ignore="ContentDescription" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@android:string/untitled"
+            android:text="@string/populated"
+            android:id="@+id/pTitleTv"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="80dp"
+            android:textColor="@color/bg"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+    </RelativeLayout>
+    <include
+        layout="@layout/carousel_desc"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/description"
+                android:id="@+id/pDescriptionTv"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:textColor="@android:color/black" />
+            <TextView
+                android:id="@+id/pDetail_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:text="@string/temburun"
+                android:textColor="@android:color/black" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/colorAccent"
+                tools:ignore="MissingConstraints">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@android:string/untitled"
+                    android:text="@string/hotel"
+                    android:id="@+id/mHotelTv"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="80dp"
+                    android:textColor="@color/bg"
+                    android:layout_marginTop="20dp"
+                    android:textSize="16sp"
+                    android:textStyle="bold"/>
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/back"
+                    android:id="@+id/pDropdown"
+                    android:rotation="-90"
+                    android:onClick="btnDrop"
+                    android:backgroundTint="@color/bg"
+                    android:layout_alignRight="@id/mHotelTv"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginTop="5dp"/>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:id="@+id/Dropdown_detail">
+                <include
+                    layout="@layout/carousel_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pulaubawhahotel"
+                    android:textColor="@android:color/black"
+                    android:id="@+id/hotel_detail" />
+
+            </LinearLayout>
+            <TextView
+                android:id="@+id/pMaps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/maps"
+                android:textColor="@android:color/black"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:layout_marginTop="15dp"/>
+            <include
+                layout="@layout/activity_maps"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/navigation"
+                android:textStyle="bold"
+                android:textColor="@color/button"
+                android:textAllCaps="true"
+                android:textSize="16sp"
+                android:layout_gravity="center"
+                android:id="@+id/pNavigation"
+                android:layout_marginBottom="10dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

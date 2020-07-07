@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LanguageActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorPrimary"
+        tools:ignore="MissingConstraints">
+
+        <ImageButton
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginStart="25dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/back"
+            android:backgroundTint="@color/bg"
+            android:onClick="back"
+            tools:ignore="ContentDescription" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@android:string/untitled"
+            android:text="@string/language"
+            android:id="@+id/mTitleTv"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="80dp"
+            android:textColor="@color/bg"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/changelanguage"
+        android:textColor="@android:color/black"
+        android:textSize="15sp"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="10dp"/>
+    <Spinner
+        android:id="@+id/spLanguage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:gravity="center"
+        android:text="@string/about"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="25sp" />
+</LinearLayout>

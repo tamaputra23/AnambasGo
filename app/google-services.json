@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592505507926",
+    "firebase_url": "https://anambasgo2.firebaseio.com",
+    "project_id": "anambasgo2",
+    "storage_bucket": "anambasgo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592505507926:android:ab73afbee014ea4f",
+        "android_client_info": {
+          "package_name": "com.example.anambasgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592505507926-5rh13u10t240sib263pk6ief9femapjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anambasgo",
+            "certificate_hash": "c5c310cc6e4855c748115fc442224188d683d760"
+          }
+        },
+        {
+          "client_id": "592505507926-9t9fm8oo7ns35bqdtehcua4hg21t9gcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVMu4fCQ88aePvOYcweSGjDox-zxyfkH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592505507926-9t9fm8oo7ns35bqdtehcua4hg21t9gcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

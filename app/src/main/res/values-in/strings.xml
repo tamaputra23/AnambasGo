@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnambasGo</string>
+    <string name="language">BAHASA</string>
+    <string name="maps">Peta</string>
+    <string name="navigation">Navigasi</string>
+    <string name="open">buka</string>
+    <string name="populated">BERPENGHUNI</string>
+    <string name="unpopulates">TIDAK BERPENGHUNI</string>
+    <string name="hotel">Hotel dan Penginapan</string>
+    <string name="allplaces">ANAMBAS</string>
+    <string name="description">Deskripsi</string>
+    <string name="batutompe">Pulau Batu Tompe juga termasuk pulau yang direkomendasikan saat kamu berkunjung ke Anambas. Pantainya sungguh menakjubkan,tak kalah dari Pulau Bawah. Lautnya yang jernih dan pasirnya yang putih bersih disempurnakan lagi dengan jajaran pohon kelapa yang makin memperindah pantainya.
+        \nUntuk menuju ke Pulau Batu Tompe anda membutuhkan waktu sekitar 10 menit dengan menggunakan speedboat berkapasitas sekitar 10 hingga 20 orang. Sebab air lautnya tidak begitu dalam, sehingga tidak bisa dilalui kapal yang agak besar.</string>
+    <string name="batutompehotel">Kusuma resort menjadi salah satu tempat wisata paling bagus untuk liburan keluarga,  Karena menyediakan paket komplit untuk keluarga anda, seperti resort, makanan dan wahana. Di Kusuma resort ini terdapat lapangan volly dan lapangan bola untuk pengunjung bermain bersama teman atau keluarga, dan juga menyediakan paket wisata untuk tamu, harganya sudah mencakup waterspot, keliling pulau sampai penjemputan.paket menginap itu bervariasi dari paket 2 hari 1 malam (Min 4 orang) hingga 4 hari 3 malam. Harga paketnya pun bervariasi dari Rp 3.880.000 dari yang paling murah hingga Rp 21.160.000 yang paling mahal (untuk 16 orang).</string>
+    <string name="temburun" >Air Terjun Temburun merupakan salah satu kekayaan alam yang dimiliki Pulau Siantan. Air terjun temburun terbentuk dari aliran sungai baruk yang berada di ketinggian kurang lebih 250 m, uniknya bertingkat-tingkat sebanyak tujuh tahapan dengan debit air yang tak pernah kering mengalir terus menerus. Dari kejauhan terlihat sangat indah karena memiliki kontur batu yang berundak-undak. Saat kamu datang ke tempat ini dijamin jatuh cinta dengan keindahan air terjun temburun, apa lagi air yang mengalir di sana sangat jernih. Keindahannya semakin bertambah karena air terjun temburun dikelilingi pepohonan rindang.
+        \nPejalanan dapat dimulai dari pelabuhan kota tarempa menggunakan tranfortasi darat roda dua atau roda empat bisa memakan waktu hingga 1 jam. </string>
+    <string name="temburunhotel">Ada beberapa jenis kamar yang tersedia di Terempak Beach Hotel diantaranya:
+        \nStandard Room \t(Rp 220 ribu/malam)
+        \nSuperior Room \t(Rp 275 ribu/malam)
+        \nDeluxe Room \t(Rp 385 ribu/malam)
+        \n\nTentunya lokasi dekat dengan Restoran, Atm, Pasar dan Tempat Ibadah.</string>
+    <string name="padangmelang">Padang Melang adalah salah satu tempat wisata di Kecamatan Jemaja. Padang Melang terkenal karena 8 Km panjang pantainya dari Letung hingga Desa Bukit Padi. Pantai ini memiliki banyak pohon kelapa dan sangat teduh untuk anda yang menikmati pantai.
+        \nTersedia fasilitas-fasilitas seperti gazebo, ruang ganti, toilet, beberapa kios kecil menjual makanan dan minuman, dan surau kecil. Di pantai ini anda bisa melakukan banyak aktifitas seperti berenang, bola voli, bola kaki, snorkeling dan lain sebagainya. jika anda ingin menyusuri pantai bisa menggunakan sepeda motor atau jalan kaki.</string>
+    <string name="padangmelanghotel">Terdapat 12 kamar yang ada pada hotel ini, tarif yang dipatok sekitar Rp.190.000 hingga Rp.250.000 per malam</string>
+    <string name="pulaubawah">Pulau Bawah terletak di Desa Kiabu, Kecamatan Siantan Selatan. Pulau ini menjadi perhatian dunia karena artikel yang dirilis oleh CNN.com yang menginformasikan bahwa Pulau Bawah adalah Pulau nomor 1 diantara 4 Pulau lainnya di Asia.
+        \nPulau Bawah memiliki kontur yang unik dengan laguna di tengah pulau-pulau. Laguna ini memiliki pemandangan yang jernih hingga ke terumbu karang. Jika laut mulai surut, pasir akan muncul dan membentuk lingkaran pulau seperti sebuang cincin dengan laguna di tengahnya. Aktivitas yang dapat anda lakukan di sini adalah berengan, snorkeling, meneyelam, trekking, memancing, berjemur dan menjelajahi pulau.
+        \nUntuk pergi ke Pulau ini anda bisa menyewa speed boat atau pompong dari Tarempa atau Letung. Dengan jarak tempuh ± 3 jam perjalanan atau lebih. </string>
+    <string name="pulaubawhahotel">Harga berdasarkan per malam terbagi menjadi 2 orang untuk satu kamar, Kami dapat menambahkan 1 tempat tidur single tambahan $ 600 USD per malam. Harga bersifat musiman.
+        \n\nGarden Suite\t\t\t $1980\t \t(Rp. 28.188.864)
+        \nBeach Suite\t\t\t $2080\t\t(Rp. 29.608.384)
+        \nOverwater Bungalow\t\t $2520 \t\t(Rp. 35.871.696)
+        \nOne Bed Deluxe Beach Suite\t $2395 \t\t(Rp. 34.092.346)
+        \nPaket yang termasuk:
+        \n -Sarapan, makan siang, dan makan malam a la carte
+        \n -Semua minuman ringan
+        \n -Spa (Ltd untuk satu perawatan per orang per hari - berdasarkan jumlah menginap, 3 malam = 3 perawatan)
+        \n -Pusat Kesehatan (kelas Gerakan Pilates / aliran Yoga)
+        \n -Aktivitas air
+        \n -Layanan Pembongkaran
+        \n -Semua laundry
+        \n -WIFI
+        \n -Tidak ada biaya tersembunyi
+        \nWebsite : www.bawahreserve.com </string>
+    <string name="pulaudurai">Pulau Durai adalah salah satu pulau yang terletak di Kecamatan Palmatak, yang merupakan habitat penyu sisik dan penyu belimbing dan merupakan kawasan konservasi penyu. Oleh karena itu, masyarakat sekitar juga menyebut pulau ini sebagai “Pulau Penyu.” Selain tempat konservasi penyu, Pulau Durai belum memiliki fasilitas yang memadai seperti rumah makan untuk wisatawan. Sehingga bila anda ingin mengunjungi pulau ini pastikan anda membawa bekal seperti makanan dan air minum yang cukup.
+        \nKarena jernihnya air laut yang berada di sekitar kepulauan ini, pengunjung sudah dapat menikmati indahnya biota laut yang ada di sekitar pulau ini tanpa harus menyelam. Bila anda menunggu hingga sore hari tiba, maka anda akan melihat kumpulan penyu yang menepi dan membuat sarang di bibir pantai pulau ini. </string>
+    <string name="pulauternawan">Pulau temawan ini cocok bagi Anda yang suka dengan keadaan sunyi. Sehingga jika Anda membutuhkan suasana yang sunyi serta tenang maka datanglah ke pulau ini. selain itu juga Anda dapat berjemur di pantai ini. Sambil menikmati keindahan pantai ini Anda dapat berjemur hingga lama sampai menjelang setengah hari.
+        \nSelain itu juga pasir putih yang halus serta lembut dan juga memberikan pesona yang begitu menawan. Disertai dengan gelombang yang begitu tenang dan buih air lautnya yang mirip kristal ini memiliki ciri dari pulau-pulau di anambas yang disebut dengan surga nusantara.</string>
+    <string name="pantaipejalin">Penjalin adalah salah satu pulau terindah di Anambas. Tepatnya Pulau ini terletak di Desa Tebang, Kecamatan Palmatak. Pulau ini memiliki area seluas 1.552,9 Km² tersebar dengan pasir putih dan air laut yang jernih.
+        \nUniknya, Penjalin memiliki teluk yang membentuk bulan sabit. Di setiap ujung pantainya terdapat bebatuan dalam berbagai bentuk. Teluk inilah yang menjadi salah satu daya tarik pulau ini. Pulau ini memiliki area pantai yang luas untuk melakukan aktifitas seperti berenang, berjemur, snorkeling, memancing, trekking, bahkan menyelam.
+        \nJika anda ingin pergi ke pulau ini anda bisa menyewa speed boat atau pompong. Dari tarempa ke penjalin memakan waktu ± 1 jam 30 menit dengan speed boat, jika menggunakan ‘pompong’ memakan waktu lebih lama sekitar 2-3 jam perjalanan. </string>
+    <string name="changelanguage">Pilih Bahasa</string>
+    <string name="about">AnambasGo adalah informasi pariwisata Anambas di kepulauan Riau. Aplikasi ini memiliki persyaratan minimum untuk android 7.0 Nougat.
+    /n Dikembangkan oleh Dody Permana, Mahasiswa Teknik Informatika Universitas Gunadarma</string>
+    <string name="refresh">Muat Ulang</string>
+</resources>

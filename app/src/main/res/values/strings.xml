@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AnambasGo</string>
+    <string name="allplaces">ALL PLACES</string>
+    <string name="unpopulates">UNPOPULATED</string>
+    <string name="populated">POPULATED</string>
+    <string name="language">LANGUAGE</string>
+    <string name="changelanguage">Change Language</string>
+    <string name="about">AnambasGo is Anambas tourism information on Riau islands. This Application has the minimum required for android 7.0 Nougat.
+    \n Developed by Dody Permana, student of Informatic Engineering Gunadarma University</string>
+    <string name="open">open</string>
+    <string name="close" translatable="false">close</string>
+    <string name="description">Description</string>
+    <string name="maps">Maps</string>
+    <string name="navigation">Navigate</string>
+    <string name="hotel">Hotel and Resort</string>
+    <string name="split" translatable="false">_______________________________</string>
+    <string name="refresh">Refresh</string>
+    <string name="temburun">Temburun Waterfall is one of the natural resources owned by Siantan Island. Temburun waterfalls are formed from the flow of the baruk river at an altitude of approximately 250 m, uniquely stratified by as many as seven stages with a water flow that never dries continuously. From a distance it looks very beautiful because it has a stone contour with steps.
+        \n\nWhen you come to this place is guaranteed to fall in love with the beauty of the Temburun waterfall, whats more the water that flows is very clear. Its beauty is increasing because the waterfall is surrounded by shady trees.
+    \n\nThe trip can be started from the port of the city of Tarempa using two-wheeled or four-wheeled land transportation can take up to 1 hour.</string>
+    <string name="temburunhotel">There are several types of rooms available at Terempak Beach Hotel including:
+    \n Standard Room (Rp 220 thousand / night)
+    \n Superior Room (Rp 275 thousand / night)
+    \n Deluxe Room (IDR 385 thousand / night)
+    \nOf course, the location is close to restaurants, ATMs, markets and places of worship.</string>
+    <string name="padangmelang">
+    Padang Melang is one of the tourist attractions in Jemaja District. Padang Melang is famous for its 8 Km long coastline from Letung to Bukit Padi Village. This beach has many coconut trees and is very shady for those of you who enjoy the beach.
+    \nThere are facilities such as a gazebo, changing rooms, toilets, several small stalls selling food and drinks, and small surau. On this beach you can do many activities such as swimming, volleyball, footballs, snorkeling and so on. if you want to go along the beach can use a motorcycle or on foot.</string>
+    <string name="padangmelanghotel">There are 12 rooms in this hotel, the rates are set around Rp.190,000 to Rp.250,000 per night.</string>
+    <string name="batutompe">Batu Tompe Island is also one of the recommended islands when you visit Anambas. The beaches are truly amazing, no less than Pulau Bawah. Its clear sea and clean white sand are further refined with a line of coconut trees which increasingly beautifies the beach.      To go to Batu Tompe Island you need about 10 minutes by using a speedboat with a capacity of about 10 to 20 people. Because the sea water is not so deep, so it cannot be passed by rather large ships.</string>
+    <string name="batutompehotel">Kusuma resort has become one of the best tourist attractions for a family vacation, because it provides a complete package for your family, such as resorts, food and rides. In this Kusuma resort there is a volleyball court and soccer field for visitors to play with friends or family, and also provides tour packages for guests, the price includes waterspot, around the island to pick up.
+        \nThe stay package varies from 2 days 1 night packages (Min 4 people ) up to 4 days 3 nights. The price of the package also varies from Rp. 3,880,000 from the cheapest to Rp. 21,160,000 the most expensive (for 16 people).</string>
+    <string name="pulaubawah">Pulau Bawah is located in Kiabu Village, South Siantan District. The island is of global interest because an article released by CNN.com informs that Pulau Bawah is Island number 1 among 4 other islands in Asia.
+    \nPulau Bawah has a unique contour with a lagoon in the middle of the islands. This lagoon has clear views of the coral reef. If the sea begins to recede, sand will appear and form an island circle like a ring with a lagoon in the middle. Activities that you can do here are swimming, snorkeling, diving, trekking, fishing, sunbathing and exploring the island.
+    \nTo go to this island you can rent a speed boat or pompong from Tarempa or Letung. With ± 3 hours of travel or more.</string>
+    <string name="pulaubawhahotel">Price based on per night is divided into 2 people for one room, We can add 1 extra single bed for USD 600 per night. Prices are seasonal.
+    \nGarden Suite $ 1980 (Rp. 28,188,864)
+    \nBeach Suite $ 2080 (Rp. 29,608,384)
+    \nOverwater Bungalow $ 2520 (Rp. 35,871,696)
+    \nOne Bed Deluxe Beach Suite $ 2395 (Rp. 34,092,346)
+    \n\nPackages included:
+    \n \t-Breakfast, lunch and a la carte dinner
+    \n \t-All soft drinks
+    \n \t-Spa (Ltd for one treatment per person per day - based on number of stays, 3 nights = 3 treatments)
+    \n \t-Health Center (Pilates Movement / Yoga class)
+    \n \t-Water activities
+    \n \t-Demolition Service
+    \n \t-All laundry
+    \n \t-WIFI
+    \n \t-There are no hidden cost
+    \nWebsite: www.bawahreserve.com</string>
+    <string name="pantaipejalin">Weaving is one of the most beautiful islands in Anambas. This island is precisely located in the Village of Tebang, Palmatak District. The island has an area of 1,552.9 Km² scattered with white sand and clear seawater.
+    \nUniquely, the weaver has a bay that forms a crescent moon. At each end of the beach, there are rocks in various forms. This bay is one of the attractions of this island. The island has a large beach area for activities such as swimming, sunbathing, snorkeling, fishing, trekking, and even diving.
+    \nIf you want to go to this island you can rent a speed boat or pompong. From Tarempa to weaving it takes ± 1 hour 30 minutes by speed boat if using a ‘pompong’ takes a longer time around 2-3 hours.</string>
+    <string name="pulaudurai">Durai Island is one of the islands located in Palmatak District, which is a habitat for hawksbill and leatherback turtles and is a turtle conservation area. Therefore, the surrounding community also refers to this island as "Turtle Island." In addition to the turtle conservation site, Durai Island does not yet have adequate facilities such as a restaurant for tourists. So if you want to visit this island, make sure you bring supplies such as food and enough drinking water.
+    \nBecause of the clear seawater around this archipelago, visitors can already enjoy the beauty of the marine life that is around this island without having to dive. If you wait until the afternoon arrives, then you will see a collection of sea turtles that pull over and make a nest on the shoreline of this island.</string>
+    <string name="pulauternawan">This island is suitable for those of you who like a quiet situation. So if you need a quiet and calm atmosphere then come to this island. besides that, you can sunbathe on this beach. While enjoying the beauty of this beach you can sunbathe for a long time until half a day.
+    \n\nIn addition, white sand is smooth and soft and also gives a charm that is so charming. Accompanied by waves that are so calm and the sea-like foam of seawater has a characteristic of the islands in Anambas called the archipelago paradise.</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+
+
+    <string-array name="language_option">
+        <item>English</item>
+        <item>Indonesian</item>
+    </string-array>
+</resources>

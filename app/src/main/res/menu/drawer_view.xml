@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/all_palces"
+            android:icon="@drawable/meeting_point"
+            android:title="@string/allplaces"/>
+        <item
+            android:id="@+id/mPopulated"
+            android:icon="@drawable/population"
+            android:title="@string/populated" />
+        <item
+            android:id="@+id/mUnpopulated"
+            android:icon="@drawable/island"
+            android:title="@string/unpopulates" />
+        <item
+            android:id="@+id/mLanguage"
+            android:icon="@drawable/language"
+            android:title="@string/language" />
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/refresh"
+                android:icon="@drawable/refresh_ic"
+                android:title="@string/refresh" />
+        </menu>
+    </item>
+</menu>
